@@ -33,11 +33,13 @@ Atualmente estudando Java, Programação Orientada a Objetos e Banco de Dados.
 
 ---
 
-## 🔥 Streak de Contribuições
+## 📊 Estatísticas
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 
 </div>
 
